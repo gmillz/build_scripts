@@ -16,4 +16,4 @@ git clone https://github.com/gmillz/SlimLauncher-gradle_wrapper.git  SlimLaunche
 git clone https://github.com/SlimRoms/packages_apps_SlimLauncher.git -b $branch app/src/main
 
 cd SlimLauncher
-./gradlew $target
+./gradlew $target --debug
