@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# setup
+. setup.sh
+
 # VARS
 branch=mm6.0
 target=assembleDebug
